@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+}
+
+.aboutus {
+    background-color: blue;
+    position: absolute;
+    top: 2px;
+    left: 500px
+}
+
+
+.signup {
+    background-color: purple;
+    top: 50px;
+}
